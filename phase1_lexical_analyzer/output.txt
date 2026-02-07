@@ -1,7 +1,10 @@
-KEYWORD : int
-IDENTIFIER : a
-OPERATOR : =
-NUMBER : 10
-OPERATOR : +
-NUMBER : 20
-OPERATOR : ;
+Lexical Analysis Output:
+
+KEYWORD     : int
+IDENTIFIER  : a
+OPERATOR    : =
+NUMBER      : 10
+OPERATOR    : +
+NUMBER      : 20
+SEPARATOR   : ;
+
