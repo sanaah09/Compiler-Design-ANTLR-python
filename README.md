@@ -1,14 +1,26 @@
-COMPILER DESIGN-ANTLR 
+# Compiler Phases Implementation in Python using ANTLR
 
-This project implements the six phases of a compiler using Python as part of the Compiler Design course.
+This repository contains a simple implementation of all six phases of a compiler using the Python programming language.
 
-The phases include lexical analysis, syntax analysis, semantic analysis, intermediate code generation, code optimization, and code generation.
+## Compiler Phases Covered
 
-Each phase is implemented separately to clearly understand the working of a compiler.
+- Lexical Analyzer  
+- Syntax Analyzer  
+- Semantic Analyzer  
+- Intermediate Code Generation  
+- Code Optimization  
+- Code Generation  
 
-A modern AI tool, ANTLR, is also explored to understand automatic lexer and parser generation.
+Each phase is implemented separately in Python.
 
-Language Used: Python
+## Use of AI Tools
 
-Conclusion
-This project demonstrates a complete compiler workflow using Python and introduces the use of AI tools in compiler design.
+Modern AI-assisted tools such as **ANTLR (ANother Tool for Language Recognition)** and **ChatGPT** were used to:
+
+- Understand compiler design concepts  
+- Define grammar rules for lexical and syntax analysis  
+- Automatically generate lexer and parser logic  
+- Debug and refine Python programs  
+- Improve code structure and clarity  
+
+The core compiler phases were implemented , while ANTLR was explored as a modern AI-assisted compiler tool.
