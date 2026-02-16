@@ -54,7 +54,7 @@ This project processes source code step by step through all compiler phases:
 
 ---
 
-## Project Structure
+## Structure
 compiler-phases-python/
 │
 ├── phase1_lexical_analyzer/
