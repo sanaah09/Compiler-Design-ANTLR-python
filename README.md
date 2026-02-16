@@ -2,7 +2,7 @@
 
 This repository contains a simple implementation of all six phases of a compiler using the Python programming language.
 
-The project demonstrates how each phase of a compiler works internally. All components are implemented manually in Python for educational purposes.
+The project demonstrates how each phase of a compiler works internally. All components are implemented manually in Python.
 
 ---
 
