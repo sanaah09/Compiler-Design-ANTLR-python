@@ -55,12 +55,12 @@ This project processes source code step by step through all compiler phases:
 ---
 
 ## Structure
-compiler-phases-python/
+compiler-phases-python
 
-phase1_lexical_analyzer/
-phase2_syntax_analyzer/
-phase3_semantic_analyzer/
-phase4_intermediate_code/
-phase5_code_optimizer/
-phase6_code_generator/
+phase1_lexical_analyzer
+phase2_syntax_analyzer
+phase3_semantic_analyzer
+phase4_intermediate_code
+phase5_code_optimizer
+phase6_code_generator
 README.md
